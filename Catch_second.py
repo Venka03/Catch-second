@@ -1,7 +1,6 @@
 import random
 import tkinter as tk
 from datetime import datetime
-from time import sleep
 
 
 class MyGame:
